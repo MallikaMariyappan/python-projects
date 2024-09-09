@@ -1,0 +1,10 @@
+#Tea & Coffee
+Tea 30/-
+Coffee Mocachino 51/-
+Coffee Americano (Black) 55/-
+Coffee Espresso 60/-
+Ice Tea (Lemon) 51/-
+Coffee Cappuccino 51/-
+Espresso (Black) 55/-
+Cold-Coffee (Mocha) 50/-
+
